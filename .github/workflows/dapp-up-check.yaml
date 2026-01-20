@@ -29,7 +29,7 @@ jobs:
         uses: google-github-actions/get-secretmanager-secrets@bc9c54b29fdffb8a47776820a7d26e77b379d262 # v3.0.0
         with:
           secrets: |-
-            SLACK_WEBHOOK_URL:projects/1067724576910/secrets/SLACK_DAPPS_PAGE_WEBHOOK_URL
+            SLACK_WEBHOOK_URL:projects/1027349420744/secrets/SLACK_DAPPS_PAGE_WEBHOOK_URL
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
       - uses: actions/setup-node@395ad3262231945c25e8478fd5baf05154b1d79f # v6.1.0
         with:
