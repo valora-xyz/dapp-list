@@ -385,6 +385,15 @@
       "url": "https://app.buckspay.xyz/",
       "listOnAndroid": true,
       "listOnIos": true
+    },
+    {
+      "name": "Celo Mondo",
+      "id": "celo-mondo",
+      "categoryId": "earn",
+      "categories": ["earn"],
+      "url": "https://mondo.celo.org/",
+      "listOnAndroid": true,
+      "listOnIos": true
     }
   ]
 }
