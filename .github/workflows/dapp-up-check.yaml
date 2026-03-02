@@ -44,7 +44,7 @@ jobs:
           key: ${{ runner.os }}-cypress-${{ hashFiles('**/yarn.lock') }}
       # Runs Cypress
       - name: Cypress run
-        uses: cypress-io/github-action@f9ffb60bba0c743f8c78dfed96873e8fdb2af34c # v7.1.4
+        uses: cypress-io/github-action@bc22e01685c56e89e7813fd8e26f33dc47f87e15 # v7.1.5
         timeout-minutes: 10
         with:
           browser: chrome
