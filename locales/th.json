@@ -22,7 +22,6 @@
     "plastiks": "สำรวจ NFT สำหรับการนำพลาสติกกลับมาใช้ใหม่",
     "ethichub": "ให้เงินกู้ยืมแก่เกษตรกรที่เข้าไม่ถึงเงินทุนจากธนาคารผ่านการระดมทุน DeFi",
     "uniswap": "สว็อปและรับรางวัลด้วยการให้บริการสภาพคล่อง",
-    "double": "รับรางวัลจากการให้บริการสภาพคล่อง",
     "curve": "สว็อปสินทรัพย์คงที่ต่างๆ",
     "toucan": "ใช้คริปโตของคุณเพื่อสร้างเครดิตคาร์บอนสำหรับการดำเนินการด้านสภาพอากาศ",
     "cred": "รับคะแนนเครดิต Web3 ของคุณ",
@@ -50,6 +49,7 @@
     "velodrome": "ดำเนินการสว็อปด้วยค่าธรรมเนียมต่ำ ฝากโทเค็นเพื่อรับรางวัล และเข้าร่วมในเศรษฐกิจบนเชนอย่างจริงจัง",
     "bando": "Use your crypto to pay for everyday stuff",
     "questpanda": "Create content for brands, post on social media and earn",
-    "buckspay": "Pay with crypto directly in local currency"
+    "buckspay": "Pay with crypto directly in local currency",
+    "celo-mondo": "Staking & Governance for Celo"
   }
 }
