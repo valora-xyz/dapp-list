@@ -360,15 +360,6 @@
       "listOnIos": false
     },
     {
-      "name": "Bando",
-      "id": "bando",
-      "categoryId": "spend",
-      "categories": ["spend"],
-      "url": "https://app.bando.cool/",
-      "listOnAndroid": true,
-      "listOnIos": true
-    },
-    {
       "name": "QuestPanda",
       "id": "questpanda",
       "categoryId": "social",
