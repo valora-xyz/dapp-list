@@ -31,4 +31,4 @@ yarn validate
 
 ## Discussion
 
-Join `#dapp-dev` on [Valora Discord](https://valoraapp.co/discord).
+Join `#developers` on [Valora Discord](https://discord.gg/CF4UcGjAay).

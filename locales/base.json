@@ -22,7 +22,6 @@
     "plastiks": "Discover NFTs for plastic recovery",
     "ethichub": "Lend capital to unbanked farmers through DeFi crowdfunding",
     "uniswap": "Swap and get rewards by providing liquidity",
-    "double": "Get rewards by providing liquidity",
     "curve": "Swap between stable assets",
     "toucan": "Use your crypto to create carbon credits for climate action",
     "cred": "Get your Web3 credit score",
@@ -50,6 +49,7 @@
     "velodrome": "Execute low-fee swaps, deposit tokens to earn rewards, and actively participate in the onchain economy",
     "bando": "Use your crypto to pay for everyday stuff",
     "questpanda": "Create content for brands, post on social media and earn",
-    "buckspay": "Pay with crypto directly in local currency"
+    "buckspay": "Pay with crypto directly in local currency",
+    "celo-mondo": "Staking & Governance for Celo"
   }
 }
