@@ -376,6 +376,15 @@
       "url": "https://mondo.celo.org/",
       "listOnAndroid": true,
       "listOnIos": true
+    },
+    {
+      "name": "Zorrito",
+      "id": "zorrito",
+      "categoryId": "earn",
+      "categories": ["earn"],
+      "url": "https://www.zorrito.app?address={{address}}",
+      "listOnAndroid": true,
+      "listOnIos": true
     }
   ]
 }
