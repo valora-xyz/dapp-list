@@ -13,6 +13,7 @@ const ignoreList = [
   'hedgey', // Blocks Microsoft services via Vercel
   'celosphere', // Fails without vpn connection
   'allbridgecore', // Fails with 403 on load
+  'plastiks', // Blocks Microsoft services via Cloudflare
 ]
 
 describe('Dapp Up Check', () => {
