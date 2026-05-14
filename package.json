@@ -19,7 +19,7 @@
   "prettier": "@valora/prettier-config",
   "dependencies": {
     "joi": "^18.2.1",
-    "i18next": "~26.0.9"
+    "i18next": "~26.0.10"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
