@@ -2885,10 +2885,10 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-i18next@~26.1.0:
-  version "26.1.0"
-  resolved "https://registry.yarnpkg.com/i18next/-/i18next-26.1.0.tgz#b0e7e2a3a87554781038899299658b1b5d678cb6"
-  integrity sha512-dIU6td04DvQuIqVst5S9g0GviTmhZ0DYD4b9ociVGJmuCa5vZ2de/t+Enf4olvj87mF8Y2lwjNQBwC9QZsvzKQ==
+i18next@~26.2.0:
+  version "26.2.0"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-26.2.0.tgz#4dc31d5ada1495f6884851f7c7a3fb6a36f23794"
+  integrity sha512-zwBHldHdTmwN7r6UNc7lC6GWNN+YYg3DrRSeHR5PRRBf5QnJZcYHrQc0uaU26qZeYxR7iFZD+Y315dPnKP47wA==
 
 ieee754@^1.1.13:
   version "1.2.1"
