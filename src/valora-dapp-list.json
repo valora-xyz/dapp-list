@@ -189,15 +189,6 @@
       "listOnIos": true
     },
     {
-      "name": "ImmortalX",
-      "id": "immortalx",
-      "categoryId": "finance-tools",
-      "categories": ["finance-tools", "earn"],
-      "url": "https://app.immortalx.io",
-      "listOnAndroid": true,
-      "listOnIos": true
-    },
-    {
       "name": "Sarafu Network",
       "id": "sarafu",
       "categoryId": "social-impact",
