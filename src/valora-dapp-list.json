@@ -376,6 +376,15 @@
       "url": "https://www.zorrito.app?address={{address}}",
       "listOnAndroid": true,
       "listOnIos": true
+    },
+    {
+      "name": "AbaPay",
+      "id": "abapay",
+      "categoryId": "spend",
+      "categories": ["spend", "finance-tools"],
+      "url": "https://www.abapays.com",
+      "listOnAndroid": true,
+      "listOnIos": true
     }
   ]
 }
