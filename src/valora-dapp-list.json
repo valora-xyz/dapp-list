@@ -385,6 +385,15 @@
       "url": "https://www.abapays.com",
       "listOnAndroid": true,
       "listOnIos": true
+    },
+    {
+      "name": "GoodDrops",
+      "id": "gooddrops",
+      "categoryId": "games",
+      "categories": ["games", "social", "social-impact"],
+      "url": "https://www.gooddrops.xyz/",
+      "listOnAndroid": true,
+      "listOnIos": true
     }
   ]
 }
